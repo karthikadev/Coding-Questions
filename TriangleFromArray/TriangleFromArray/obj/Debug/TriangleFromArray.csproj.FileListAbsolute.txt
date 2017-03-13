@@ -1,0 +1,6 @@
+C:\Spike\git projects\Coding-Questions\TriangleFromArray\TriangleFromArray\bin\Debug\TriangleFromArray.exe.config
+C:\Spike\git projects\Coding-Questions\TriangleFromArray\TriangleFromArray\bin\Debug\TriangleFromArray.exe
+C:\Spike\git projects\Coding-Questions\TriangleFromArray\TriangleFromArray\bin\Debug\TriangleFromArray.pdb
+C:\Spike\git projects\Coding-Questions\TriangleFromArray\TriangleFromArray\obj\Debug\TriangleFromArray.csprojResolveAssemblyReference.cache
+C:\Spike\git projects\Coding-Questions\TriangleFromArray\TriangleFromArray\obj\Debug\TriangleFromArray.exe
+C:\Spike\git projects\Coding-Questions\TriangleFromArray\TriangleFromArray\obj\Debug\TriangleFromArray.pdb
